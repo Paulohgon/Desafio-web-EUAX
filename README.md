@@ -19,14 +19,14 @@ Assim que recebido o desafio, percebi que me faltava boa parte das habilidades r
 
 - [x] ID Projeto
 - [x] Nome Projeto
-- [x] Data Início
-- [x] Data Fim
+- [x] Anotar data Início
+- [x] Anotar Data Fim
 - [x] % Completo
 - [ ] Atrasado
 
 - [x] ID Atividade
 - [x] ID Projeto
 - [x] Nome Atividade
-- [x] Data Início
-- [x] Data Fim
-- [x] Finalizada?
+- [x] Anotar data Início
+- [x] Anotar Data Fim
+- [x] Finalizada
