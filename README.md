@@ -8,6 +8,7 @@ Você precisa criar um cadastro de projetos com a data de início e data final p
 - SQL
 
 ## Funcionamento 
+Paulo gay
 Ao executar o código, uma tabela no banco de dados será criado, caso ainda não exista, então o usuário será levado a um menu onde poderá escolher se quer inserir um novo projeto, verificar o status de algum projeto, deletar algum projeto ou simplismente parar a execução, após a escolha da primeira opção será pedido para que ele insira os dados do projeto e logo depois os dados das atividades do mesmo, essas serão atreladas pelo id no banco de dados.Caso escolha a segunda opção (verificar o status) será pedido que ele entre com o id do projeto e para isso será lhe mostrado todos os projetos cadastrados, então depois de escolhido o programa dara todas as informações cadastradas do projeto e das atividades e informará a porcentagem que ele está completo. Se for escolhido a opção de deletar algum projeto, será pedido ao usuário que informe o id do projeto que deseja ser deletado e então será deletado o projeto e todas as atividades relacionadas a ele. Por fim, se escolhido a opção de parar a execução o programa para sem fazer nada. Ao fim de qualquer uma das três primeiras escolhas o usuário será levado ao meno inicial novamente.
 
 ## Experiência de desenvolver
